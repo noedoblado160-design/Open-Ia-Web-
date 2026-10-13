@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
-:root{--bg:#f7f7f4;--paper:#fff;--ink:#141715;--sub:#626a67;--line:rgba(20,23,21,.12);--sage:#d5e8db;--shadow:0 20px 70px rgba(21,29,27,.08);--round:26px;--font:'Manrope','DM Sans',Arial,sans-serif;color-scheme:light}
+:root{--bg:#f00cc;--paper:#fff;--ink:#141715;--sub:#626a67;--line:rgba(20,23,21,.12);--sage:#d5e8db;--shadow:0 20px 70px rgba(21,29,27,.08);--round:26px;--font:'Manrope','DM Sans',Arial,sans-serif;color-scheme:light}
 :root[data-theme=dark]{--bg:#101412;--paper:#1b211e;--ink:#f4f7f4;--sub:#a9b2ab;--line:rgba(243,247,244,.13);--sage:#385547;--shadow:0 25px 65px rgba(0,0,0,.22);color-scheme:dark}
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:96px}
