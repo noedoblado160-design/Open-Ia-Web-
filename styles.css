@@ -67,7 +67,7 @@ a{color:inherit;text-decoration:none}button{font:inherit}button,a{-webkit-tap-hi
    ======================================================= */
 .nav-cta,
 .hero .btn-dark {
-  background: #A21CAF;
+  background: #111111;
   color: #ffffff !important;
   -webkit-text-fill-color: #ffffff !important;
   border-color: transparent;
